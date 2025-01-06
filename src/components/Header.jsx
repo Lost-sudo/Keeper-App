@@ -3,9 +3,9 @@ import "/public/style.css"
 
 function Header() {
     return (
-        <div className="header">
-            <h1>Keeper</h1>
-        </div>
+      <header>
+        <h1>Keeper</h1>
+      </header>
     );
 }
 
